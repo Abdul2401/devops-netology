@@ -26,4 +26,5 @@ first mod
 
 # Игнорировать файлы конфигурации CLI
 #.terraformrc
+
 #terraform.rc
